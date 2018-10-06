@@ -1,8 +1,23 @@
-.photo {
-	width: 40%;
-
+.constructor {
+    margin: 150px;
+    border: 2px solid grey;
 }
 
-.myphoto {
-	width: 350px;
+div.photo {
+    border: 2px solid black;
+    float: left;
+    margin-top: -20px;
+    height: 450px;
+    width: 650px;
+    background: url(KLUS20691.JPG) center no-repeat;
+    background-size: 100%;
+    shape-outside: polygon(0 0, 100% 0, 70% 100%, 0 100%);
+    shape-margin: 50px;
+    clip-path: polygon(0 0, 100% 0, 70% 100%, 0 100%);
+}
+
+div.describtion {
+    height: 405px;
+    padding: 50px;
+    padding-bottom: 0px;
 }
