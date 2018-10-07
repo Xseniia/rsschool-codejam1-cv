@@ -7,7 +7,7 @@ body {
 
 .constructor {
     font-family: Century Gothic;
-    width: 1200px;
+    width: 950px;
     margin: auto;
     margin-top: 110px;
     margin-bottom: 110px;
@@ -20,13 +20,13 @@ body {
 }
 
 .name {
-    font-size: 22px;
+    font-size: 16px;
 }
 
 .photo {
     float: left;
-    height: 450px;
-    width: 650px;
+    height: 380px;
+    width: 480px;
     background: url(KLUS20691.JPG) center no-repeat;
     background-size: 100%;
     shape-outside: polygon(0 0, 100% 0, 65% 100%, 0 100%);
@@ -62,11 +62,12 @@ body {
 
 .contacts {
     line-height: 15px;
+    font-size: 15px;
     color: #727272;
 }
 
 .describtion {
-    height: 405px;
+    height: 350px;
     padding: 50px;
     padding-bottom: 35px;
     margin-bottom: 0px;
@@ -86,7 +87,7 @@ body {
 
 .chapter_title h3 {
     line-height: 0px;
-    font-size: 22px;
+    font-size: 19px;
     color: #3B3B3B;
     font-style: italic;
 }
@@ -98,8 +99,8 @@ body {
 .text {
     margin-left: 200px;
     padding: 20px;
-    line-height: 35px;
-    font-size: 18px;
+    line-height: 20px;
+    font-size: 14px;
 }
 
 .lang {
@@ -108,7 +109,7 @@ body {
 }
 
 .comment {
-    margin-top: -30px;
+    margin-top: -10px;
     margin-left: 300px;
     font-size: 14px;
     color: #727272;
