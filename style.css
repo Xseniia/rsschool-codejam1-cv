@@ -55,3 +55,8 @@
     position: relative;
     left: 50px;
 }
+
+.comment {
+    margin-top: -20px;
+    margin-left: 210px;
+}
