@@ -1,23 +1,51 @@
 .constructor {
-    margin: 150px;
     border: 2px solid grey;
+    width: 1200px;
+    margin: auto;
+    margin-top: 110px;
 }
 
-div.photo {
+.photo {
     border: 2px solid black;
     float: left;
-    margin-top: -20px;
     height: 450px;
     width: 650px;
     background: url(KLUS20691.JPG) center no-repeat;
     background-size: 100%;
-    shape-outside: polygon(0 0, 100% 0, 70% 100%, 0 100%);
+    shape-outside: polygon(0 0, 100% 0, 65% 100%, 0 100%);
     shape-margin: 50px;
-    clip-path: polygon(0 0, 100% 0, 70% 100%, 0 100%);
+    clip-path: polygon(0 0, 100% 0, 65% 100%, 0 100%);
+
 }
 
-div.describtion {
+.describtion {
     height: 405px;
     padding: 50px;
     padding-bottom: 0px;
+    margin-bottom: 35px;
+}
+
+.chapter_title {
+    float: left;
+    padding: 7px;
+    padding-left: 25px;
+    margin-left: -20px;
+    margin-top: 30px;
+    background-color: green;
+    border: 2px solid black;
+    width: 230px;
+    clip-path: polygon(0 0, 100% 0, 87% 100%, 0 100%);
+}
+
+.chapter_title h3 {
+    line-height: 0px;
+}
+
+.chapter_text {
+    padding: 30px;
+}
+
+.text {
+    margin-left: 200px;
+    padding: 20px;
 }
