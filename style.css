@@ -48,4 +48,10 @@
 .text {
     margin-left: 200px;
     padding: 20px;
+    line-height: 35px;
+}
+
+.lang {
+    position: relative;
+    left: 50px;
 }
