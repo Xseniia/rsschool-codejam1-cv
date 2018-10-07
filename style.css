@@ -1,12 +1,28 @@
+body {
+    background: url(blblbl.png) center no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+
 .constructor {
-    border: 2px solid grey;
+    font-family: Century Gothic;
     width: 1200px;
     margin: auto;
     margin-top: 110px;
+    background-color: white;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, .3),
+        -23px 0 20px -23px rgba(0, 0, 0, .8),
+        23px 0 20px -23px rgba(0, 0, 0, .8),
+        0 0 40px rgba(0, 0, 0, .1) inset;
+
+}
+
+.name {
+    text-align: center;
 }
 
 .photo {
-    border: 2px solid black;
     float: left;
     height: 450px;
     width: 650px;
@@ -16,6 +32,20 @@
     shape-margin: 50px;
     clip-path: polygon(0 0, 100% 0, 65% 100%, 0 100%);
 
+}
+
+.head {
+    background-color: rgb(223, 223, 223);
+}
+
+.contact_me {
+    text-decoration: underline;
+    color: #727272;
+}
+
+.contacts {
+    line-height: 15px;
+    color: #727272;
 }
 
 .describtion {
@@ -31,14 +61,15 @@
     padding-left: 25px;
     margin-left: -20px;
     margin-top: 30px;
-    background-color: green;
-    border: 2px solid black;
+    background-color: #8AA1A5;
+    border: 1px solid gray;
     width: 230px;
     clip-path: polygon(0 0, 100% 0, 87% 100%, 0 100%);
 }
 
 .chapter_title h3 {
     line-height: 0px;
+    font-size: 20px;
 }
 
 .chapter_text {
@@ -59,4 +90,16 @@
 .comment {
     margin-top: -20px;
     margin-left: 210px;
+}
+
+a {
+    color: #0A4B56;
+}
+
+a:visited {
+    color: #3A0306;
+}
+
+a:hover {
+    color: #C00F18;
 }
