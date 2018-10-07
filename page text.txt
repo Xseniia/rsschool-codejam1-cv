@@ -1,0 +1,35 @@
+name: Khitro Ksenia
+
+contacts: 
+	email: khitroxs@gmail.com
+	tel: +375447085654
+	who am I: CV Junior Frontend Developer
+	place of study: Student of the Academy of Public Administration under the Eages of the Persident of the Republic of Belarus
+	city: Minsk
+	vk lnk(?): https://vk.com/id140071776`
+	GitHub acc: https://github.com/Xseniia
+
+summary: 
+	на русском: Начать карьеру Junior Frontend Developer, активно разиваться в этой сфере и как можно скорее 
+	подняться как минимум до уровня Senior Developer.
+	Знакома с основами алгоритмизации и ООП. 
+	Знаю такие языки программироания, как С++, HTML, CSS, в процессе изучения JavaScript 
+	Имею опыт работы в таких пакетах, как Photoshop, Adobe Illustrator, Sony Vegas, FL stuio
+	Имею аналитические способности. Легкообучаемая. Позитивная. Легко нахож общий язык с людьми. Творческая.
+
+education: 
+	2016-2020 the Academy of Public Administration under the Eages of the Persident of the Republic of Belarus
+		manager-economyst of the information systems degree
+	2018-2019 Rolling Scopes school 
+	
+skills: 
+	HTML5, SCC, JS ES6, C++, JQuery, prototype
+	frameworks: materialize, material UI
+
+Projects:
+	*tattoo-studio web-page(html, scc)
+	
+Languages: 
+	russian(native)
+	belarussian(weak)
+	english(B2)

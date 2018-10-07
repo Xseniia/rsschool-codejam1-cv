@@ -1,0 +1,126 @@
+.constructor {
+    font-family: Century Gothic;
+    width: 950px;
+    margin: auto;
+    margin-top: 110px;
+    margin-bottom: 110px;
+    background-color: white;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, .3),
+        -23px 0 20px -23px rgba(0, 0, 0, .8),
+        23px 0 20px -23px rgba(0, 0, 0, .8),
+        0 0 40px rgba(0, 0, 0, .1) inset;
+
+}
+
+.name {
+    font-size: 16px;
+}
+
+.photo {
+    float: left;
+    height: 380px;
+    width: 480px;
+    background: url(KLUS20691.JPG) center no-repeat;
+    background-size: 100%;
+    shape-outside: polygon(0 0, 100% 0, 65% 100%, 0 100%);
+    shape-margin: 50px;
+    clip-path: polygon(0 0, 100% 0, 65% 100%, 0 100%);
+
+}
+
+.head {
+    background-color: #DBD9D9;
+}
+
+.first_chapter {
+    background-color: #E5E3E3;
+}
+
+.second_chapter {
+    background-color: #EEEDED;
+}
+
+.third_chapter {
+    background-color: #F3F2F2;
+}
+
+.forth_chapter {
+    background-color: #F8F8F8;
+}
+
+.contact_me {
+    text-decoration: underline;
+    color: #727272;
+}
+
+.contacts {
+    line-height: 15px;
+    font-size: 15px;
+    color: #727272;
+}
+
+.describtion {
+    height: 350px;
+    padding: 50px;
+    padding-bottom: 35px;
+    margin-bottom: 0px;
+}
+
+.chapter_title {
+    float: left;
+    padding: 7px;
+    padding-left: 25px;
+    margin-left: -20px;
+    margin-top: 30px;
+    background-color: #8AA1A5;
+    border: 1px solid gray;
+    width: 230px;
+    clip-path: polygon(0 0, 100% 0, 87% 100%, 0 100%);
+}
+
+.chapter_title h3 {
+    line-height: 0px;
+    font-size: 19px;
+    color: #3B3B3B;
+    font-style: italic;
+}
+
+.chapter_text {
+    padding: 30px;
+}
+
+.text {
+    margin-left: 200px;
+    padding: 20px;
+    line-height: 20px;
+    font-size: 14px;
+}
+
+.lang {
+    position: relative;
+    left: 50px;
+}
+
+.comment {
+    margin-top: -10px;
+    margin-left: 300px;
+    font-size: 14px;
+    color: #727272;
+    font-style: italic;
+}
+
+a {
+    color: #0A4B56;
+}
+
+a:visited {
+    color: #3A0306;
+}
+
+a:hover {
+    color: #C00F18;
+}
+
+.table_border {
+    border-bottom: 1px solid #8AA1A5;
+}
